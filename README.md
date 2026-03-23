@@ -38,6 +38,3 @@ product categories.
 - Dynamic Slicers and Timeline
 - GETPIVOTDATA formula
 - Dashboard Design
-```
-```
-4. Scroll down → Click "Commit changes"
